@@ -19,7 +19,7 @@ public class GitDemoPullMerge {
         System.out.println("My name is Manglik Chokshi");
         System.out.println("I just added this statement on git hub and it sucks because it has not shortcut and I have to type everything :(");
         System.out.println("The IDE of GIT needs an upgrade");
-        
+        //This comment is unsafe
     }
     
 }
