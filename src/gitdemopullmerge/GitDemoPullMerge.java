@@ -17,6 +17,7 @@ public class GitDemoPullMerge {
         
         System.out.println("Yo Wassup!!");
         System.out.println("My name is Manglik Chokshi");
+        Sytem.out.println("I just added this statement on git hub and it sucks because it has not shortcut and I have to type everything :(");
         
     }
     
