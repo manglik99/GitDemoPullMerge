@@ -15,6 +15,9 @@ public class GitDemoPullMerge {
      */
     public static void main(String[] args) {
         
+        System.out.println("Yo Wassup!!");
+        System.out.println("My name is Manglik Chokshi");
+        
     }
     
 }
